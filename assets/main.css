@@ -2022,3 +2022,68 @@ input, select, textarea {
 			}
 
 	}
+
+
+
+
+/* Reset default list styles */
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Set up the main navigation */
+#nav {
+  background-color: #333;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+}
+
+/* Style the main navigation items */
+#nav > ul > li {
+  display: inline-block;
+  position: relative;
+}
+
+/* Style the main navigation links */
+#nav > ul > li > a {
+  display: inline-block;
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+
+/* Add a hover effect to the main navigation links */
+#nav > ul > li:hover > a {
+  background-color: #555;
+}
+
+/* Set up the dropdown menu */
+#nav li > ul {
+  display: none;
+  position: absolute;
+  background-color: #333;
+  min-width: 200px;
+  z-index: 1;
+}
+
+/* Set up the dropdown menu links */
+#nav li > ul > li > a {
+  display: block;
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+
+/* Add a hover effect to the dropdown menu links */
+#nav li > ul > li:hover > a {
+  background-color: #555;
+}
+
+/* Display the dropdown menu on hover */
+#nav li:hover > ul {
+  display: block;
+}
+
+
