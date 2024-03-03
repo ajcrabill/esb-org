@@ -11,5 +11,5 @@ That's easier said than done, though.<br/>
 And clear answers about "how" are hard to come by.<br/><br/>
 <strong>We want to help change that.</strong></h2><br/>
 <a href="about" class="btn-get-started scrollto">Learn More<br/>About ESBI</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="resources/instructions" class="btn-get-started scrollto">Coding Manual</a>
+<a href="resources/instructions" class="btn-get-started scrollto">See Our<br/>Coding Manual</a>
 <a href="http://www.effectiveschoolboards.com" class="btn-get-started scrollto">Learn More<br/>About ESB</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
