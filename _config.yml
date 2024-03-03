@@ -1,0 +1,8 @@
+theme: minima
+title: "Effective School Boards"
+gems:
+- jekyll-seo-tag
+permalink: date
+posts:
+  output: true
+  
